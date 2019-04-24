@@ -2,22 +2,22 @@ gg.alert (os.date([[
 🛡️Verification Completed Successfully          
 Tarih: %Y/%m/%d                                        Saat: %H:%M:%S]]))
 
-gg.alert("--------------------------------------------------- ▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n  \b\b╔══════════════════════╗           🏆\b\b\b\b\b\b\b\..║S I D T U B BE║.. \n\b  \b╚══════════════════════╝ \n▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n--------------------------------------------------")
+gg.alert("--------------------------------------------------- ▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n  \b\b╔══════════════════════╗           🏆\b\b\b\b\b\b\b\..║S A N I B║.. \n\b  \b╚══════════════════════╝ \n▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n--------------------------------------------------")
 
 
 
 function HOME()
   GR1 = gg.choice({
-    "👥Wallhaccck(Lobi)",
-    "🎭colora(Lobi)",
-    "📡Antena (Lobi) ",
-    "🏹hometab(Lobi/game)",
-    "🏆VİP Menü(Lobi/game)",
+    "👥Wallhaccck(Lobby)",
+    "🎭colora(Lobby)",
+    "📡Antena (Lobby) ",
+    "🏹hometab(Lobby/game)",
+    "🏆VİP Menü(Lobby/game)",
     "➕more features(game)",
     "            ➖🚫 exit 🚫➖ ",
     "➡️ user guide", 
 
-  }, nil, " 🇻 🇮 🇵 cimplesid  \n\n╚»★«╝╚»★«╝ ╚»★«╝╚»★«╝╚»★«╝")
+  }, nil, " 🇻 🇮 🇵 SanibHacker  \n\n╚»★«╝╚»★«╝ ╚»★«╝╚»★«╝╚»★«╝")
   if GR1 == 1 then WH() end
   if GR1 == 2 then RNK() end 
   if GR1 == 3 then ANTEN() end
@@ -235,12 +235,12 @@ end
 
 function SEKM()
   GR3 = gg.choice({
-    "⚜️home tab 75%[Lobi]",
+    "⚜️home tab 75%[Lobby]",
     "⚜️home tab 50% [game]",
     "⚜️home tab 100% [game]",
     "ℹ️ USEℹ️",
     "[🔙GERİ]"
-  }, nil, "╔══════════════════════╗\n║⚜️C I M P L E S I D V 1⚜️\n╚══════════════════════╝")
+  }, nil, "╔══════════════════════╗\n║⚜️F A K E D Y N A M O v.1⚜️\n╚══════════════════════╝")
   if GR3 == nil then
   else
     if GR3 == 1 then
@@ -415,7 +415,7 @@ function ANTEN()
 GR5 = gg.multiChoice({
 "📡Anten  ",
 "📡Anten 2 ",
-	  }, nil, "subscribe to sidtube")
+	  }, nil, "S A N I B S A I F I")
   if GR5 == nil then
   else
   if GR5[1] == true then ANTEN1() end
@@ -609,7 +609,7 @@ gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Actvd subscribe to sidtube")
+gg.toast("F A K E D Y N A M O")
 end
 
 function WH636()
@@ -625,7 +625,7 @@ gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Actvd subscribe to sidtube")
+gg.toast("F A K E D Y N A M O")
 end
 
 function WH425()
@@ -641,7 +641,7 @@ gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Actvd subscribe to sidtube")
+gg.toast("F A K E D Y N A M O")
 end
 
 function WH450()
@@ -684,7 +684,7 @@ gg.searchNumber("4.7961574e21;3.7615819e-37;2::", gg.TYPE_FLOAT, false, gg.SIGN_
 gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("150", gg.TYPE_FLOAT)
-gg.toast(" Actvd subscribe to sidtube  ✔")
+gg.toast(" F A K E D Y N A M O  ✔")
 gg.clearResults()
 end
 
@@ -702,7 +702,7 @@ gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast(" Actvd subscribe to sidtube ✔")
+gg.toast(" F A K E D Y N A M O ✔")
 gg.clearResults()
 end
 
@@ -723,7 +723,7 @@ function carflying()
   gg.searchNumber("45", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(999999)
   gg.editAll("700", gg.TYPE_FLOAT)
-  gg.toast(" Actvd subscribe to sidtube✔")
+  gg.toast(" F A K E D Y N A M O ✔")
 end
 
 function WH660()
@@ -768,7 +768,7 @@ gg.searchNumber("4,140D;4.7408149e21;-5.5695588e-40;4.814603e21;3.7615819e-37;2:
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(20)
 gg.editAll("120", gg.TYPE_FLOAT)
-gg.toast("Actvd subscribe to sidtube ✔")
+gg.toast("F A K E D Y N A M O ✔")
 gg.clearResults()
 end
 
@@ -798,7 +798,7 @@ gg.searchNumber("206D;3.7615819e-37;2;-1;1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("130", gg.TYPE_FLOAT)
-gg.toast(" Actvd subscribe to sidtube ✔")
+gg.toast(" F A K E D Y N A M O ✔")
 gg.clearResults()
 end
 
@@ -815,7 +815,7 @@ gg.searchNumber("194D;3.7615819e-37;2;-1;1;-127::", gg.TYPE_FLOAT, false, gg.SIG
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("130", gg.TYPE_FLOAT)
-gg.toast("Actvd subscribe to sidtube  ✔")
+gg.toast("F A K E D Y N A M O ✔")
 gg.clearResults()
 end
 
@@ -837,7 +837,7 @@ gg.searchNumber("7.1746481e-43;1.0842022e-19;94.015625;7.0776718e-15;2::", gg.TY
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(5)
 gg.editAll("9999", gg.TYPE_FLOAT)
-gg.toast("Actvd subscribe to sidtube ✔")
+gg.toast("F A K E D Y N A M O ✔")
 gg.clearResults()
 end
 
@@ -891,7 +891,7 @@ function WH845()
   gg.getResults(20)
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Actvd subscribe to sidtube!")
+  gg.toast("F A K E D Y N A M O !")
 end
 
 function RNK()
@@ -952,7 +952,7 @@ end
     "🚁flying car",
     "🌁Wall Cheats",
     "❌back❌"
-  }, nil, "🏆VİP MENÜ subscribe to sidtube🏆")
+  }, nil, "🏆VİP MENÜ Sanib Saifi Noob🏆")
   if GR5 == nil then
   else
 
@@ -1011,7 +1011,7 @@ function Superman()
   gg.getResults(30)
   gg.editAll("999.0", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Süpermen✔")
+  gg.toast("SpOidErmON✔")
 end
 
 function BestHS()
@@ -1033,7 +1033,7 @@ function BestHS()
   gg.getResults(10)
   gg.editAll("250", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Aktiv")
+  gg.toast("GAJABB")
 end
 
 function HSM()
@@ -1046,7 +1046,7 @@ function HSM()
   gg.getResults(100)
   gg.editAll("9999", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Activ!")
+  gg.toast("GAJABB!")
 end
 
 function DU()
@@ -1057,7 +1057,7 @@ function DU()
   gg.getResults(10)
   gg.editAll("1000", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Active")
+  gg.toast("GAJABB")
 end
 function WS()
   gg.clearResults()
@@ -1077,7 +1077,7 @@ function WS()
   gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(20)
   gg.editAll("0", gg.TYPE_FLOAT)
-  gg.toast("Activd")
+  gg.toast("GAJABB")
 end
 
 function Aimbot()
@@ -1107,7 +1107,7 @@ function SR()
   gg.getResults(30)
   gg.editAll("9", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Activtd")
+  gg.toast("GAJABB")
 end
 function SK()
   gg.clearResults()
@@ -1117,7 +1117,7 @@ function SK()
   gg.getResults(100)
   gg.editAll("1.7", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Aktivatd")
+  gg.toast("GAJABB")
 end
 
 function JumpU()
@@ -1128,7 +1128,7 @@ function JumpU()
   gg.getResults(30)
   gg.editAll("999.0", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Activtd")
+  gg.toast("GAJABB")
 end
 function JSU()
   gg.clearResults()
@@ -1137,7 +1137,7 @@ function JSU()
   gg.getResults(10)
   gg.editAll("-999", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Activtd")
+  gg.toast("GAJABB")
 end
 function WT()
   gg.clearResults()
@@ -1147,7 +1147,7 @@ function WT()
   gg.getResults(20)
   gg.editAll("9999", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Akticatd")
+  gg.toast("GAJABB")
 end
 
 
@@ -1323,26 +1323,26 @@ function SGOK()
   gg.getResults(100)
   gg.editAll("-9999", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Black Sky Activated🌃💯")
+  gg.toast("Black Sky Activated kala kala sa💯")
 end 
 
 
 
 
 function VGG()
-gg.alert("HOW TO USE?\n\n ℹ️menu (Lobi) ve (game) indicates where you want to activate the menu (Lobi/game) The menu contains features to be active in both the lobby and the game.. \n \n ➡️List of tricks to be activated in the lobby\n\n 1-Wallhack\n 2-colors\n 3-Anten\n 4-home tab %75\n 5-Vip Menü clear record\n\n 🔊Not\n\n ~ All Non-Cheats Above Will Be Activated in Game")
+gg.alert("HOW TO USE?\n\n ℹ️menu (Lobby) ve (game) indicates where you want to activate the menu (Lobi/game) The menu contains features to be active in both the lobby and the game.. \n \n ➡️List of tricks to be activated in the lobby\n\n 1-Wallhack\n 2-colors\n 3-Anten\n 4-home tab %75\n 5-Vip Menü clear record\n\n 🔊Not\n\n ~ All Non-Cheats Above Will Be Activated in Game")
   end
   
   
   
 function EXT()
 GR5 = print("•2019")
-print("• instagram: cimplesid")
-print("• Youtube Kanalı : SIDTUBE")
+print("• instagram: Farmoodsaifi")
+print("• Youtube  : krato sparta gaming")
 os.exit()
 end
 
-cs = "• sidtube"
+cs = "• farmood Noob"
 while true do
 if gg.isVisible(true) then
 GRH = 1
